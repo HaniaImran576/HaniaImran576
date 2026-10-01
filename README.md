@@ -1,72 +1,99 @@
 <p align="center">
   <a href="https://github.com/HaniaImran576">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=506&text=Hi!%20I'm%20Hania" alt="Hi! I&#39;m Hania" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=506&text=Hi!%20I'm%20Hania" alt="Hi! I'm Hania" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=Aspiring%20Automation%20QA%20Engineer%20%7C%20Manual%20%2B%20API%20Testing;Learning%20to%20test%20software%20the%20way%20real%20QA%20teams%20do%2C%20one%20project%20at%20a%20time" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=Aspiring%20Automation%20QA%20Engineer%20%7C%20Manual%20%2B%20API%20Testing;Learning%20to%20test%20software%20the%20way%20real%20QA%20teams%20do%2C%20one%20project%20at%20a%20time;Currently%20leveling%20up%20with%20Selenium%20%26%20Playwright" alt="Typing headlines" />
 </p>
 
-###  About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HaniaImran576&label=Profile+Views&color=db61a2&style=for-the-badge&labelColor=000000" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/HaniaImran576?style=for-the-badge&color=db61a2&labelColor=000000&logo=github&logoColor=ff9bce" alt="Followers" />
+</p>
 
-Undergraduate student studying Software Quality Assurance, with a background in UI/UX design and web development that shapes how I test. I focus on manual testing, API testing with Postman, and defect tracking with Jira, and I am actively building automation skills with Python, Selenium, and Playwright. I care about writing test cases and bug reports that anyone on a team could pick up and understand, not just ones that make sense to me.
+### 🎀 About Me
 
- &nbsp;I'm currently working on **A QA portfolio project testing ParaBank, a banking application demo, covering manual UI testing and API testing across account management and fund transfers**  
- &nbsp;I'm currently learning **Test automation with Selenium and Playwright, and Python fundamentals for building maintainable automated test suites**  
- &nbsp;I'm looking to collaborate on **Student or open source projects that need manual or API testing support, especially anything involving usability or accessibility**  
- &nbsp;I'm looking for help with **Structuring test automation frameworks that stay maintainable as a project grows, particularly Page Object Model design**  
- &nbsp;Ask me about **Manual testing, API testing with Postman, writing clear bug reports, or where UI/UX and software quality overlap**  
- &nbsp;Pronouns: **she/her**  
- &nbsp;Fun fact: **I once marked a feature bug free after twenty minutes of testing. It was not. That mistake is the reason I test differently now.**
+Software Engineering undergrad focused on SQA, with a UI/UX and web development background. I write clear test cases and bug reports, and I'm building automation skills.
 
-###  Tech Stack
+🔭 &nbsp;I'm currently working on **a QA portfolio on ParaBank: manual UI testing, Postman API testing and Selenium automation for accounts and transfers**  
+🌱 &nbsp;I'm currently learning **Selenium, Playwright, Python test frameworks, GitHub Actions CI and advanced JMeter performance testing**  
+👯 &nbsp;I'm looking to collaborate on **student or open source projects that need manual, API or automation testing support**  
+🤝 &nbsp;I'm looking for help with **structuring maintainable automation frameworks, especially Page Object Model design**  
+💬 &nbsp;Ask me about **manual testing, bug reports, Jira, TestWorthy, Zephyr Scale, Postman API testing and JMeter**  
+👩‍💻 &nbsp;Pronouns: **she/her**  
+⚡ &nbsp;Fun fact: **I once marked a feature bug free after twenty minutes of testing. It was not. That mistake is why I test differently now.**
+
+### 🧪 Testing & QA Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Manual_Testing-db61a2?style=for-the-badge&labelColor=000000" alt="Manual Testing" />
+  <img src="https://img.shields.io/badge/API_Testing-ff9bce?style=for-the-badge&labelColor=000000" alt="API Testing" />
+  <img src="https://img.shields.io/badge/Postman-db61a2?style=for-the-badge&logo=postman&logoColor=ff9bce&labelColor=000000" alt="Postman" />
+  <img src="https://img.shields.io/badge/JMeter-ff9bce?style=for-the-badge&logo=apachejmeter&logoColor=ff9bce&labelColor=000000" alt="JMeter" />
+  <img src="https://img.shields.io/badge/Jira-db61a2?style=for-the-badge&logo=jira&logoColor=ff9bce&labelColor=000000" alt="Jira" />
+  <img src="https://img.shields.io/badge/TestWorthy-ff9bce?style=for-the-badge&labelColor=000000" alt="TestWorthy" />
+  <img src="https://img.shields.io/badge/Zephyr_Scale-db61a2?style=for-the-badge&labelColor=000000" alt="Zephyr Scale" />
+  <img src="https://img.shields.io/badge/Selenium-ff9bce?style=for-the-badge&logo=selenium&logoColor=ff9bce&labelColor=000000" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Playwright-db61a2?style=for-the-badge&logo=playwright&logoColor=ff9bce&labelColor=000000" alt="Playwright" />
 </p>
 
-###  Connect With Me
+### 💻 Languages & Tools
 
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/hania-imran-9527ba291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:haniaimranxyz@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Python-db61a2?style=for-the-badge&logo=python&logoColor=ff9bce&labelColor=000000" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ff9bce?style=for-the-badge&logo=openjdk&logoColor=ff9bce&labelColor=000000" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-db61a2?style=for-the-badge&logo=javascript&logoColor=ff9bce&labelColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-ff9bce?style=for-the-badge&logo=mysql&logoColor=ff9bce&labelColor=000000" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-db61a2?style=for-the-badge&logo=html5&logoColor=ff9bce&labelColor=000000" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-ff9bce?style=for-the-badge&logo=css3&logoColor=ff9bce&labelColor=000000" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-db61a2?style=for-the-badge&logo=react&logoColor=ff9bce&labelColor=000000" alt="React" />
+  <img src="https://img.shields.io/badge/Spring-ff9bce?style=for-the-badge&logo=spring&logoColor=ff9bce&labelColor=000000" alt="Spring" />
+  <img src="https://img.shields.io/badge/MySQL-db61a2?style=for-the-badge&logo=mysql&logoColor=ff9bce&labelColor=000000" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-ff9bce?style=for-the-badge&logo=postgresql&logoColor=ff9bce&labelColor=000000" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-db61a2?style=for-the-badge&logo=mongodb&logoColor=ff9bce&labelColor=000000" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-ff9bce?style=for-the-badge&logo=githubactions&logoColor=ff9bce&labelColor=000000" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GitHub-db61a2?style=for-the-badge&logo=github&logoColor=ff9bce&labelColor=000000" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-ff9bce?style=for-the-badge&logo=vscodium&logoColor=ff9bce&labelColor=000000" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-db61a2?style=for-the-badge&logo=figma&logoColor=ff9bce&labelColor=000000" alt="Figma" />
 </p>
 
-###  GitHub Stats
+### 📫 Connect With Me
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=HaniaImran576&show_icons=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=HaniaImran576&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/hania-imran-9527ba291"><img src="https://img.shields.io/badge/LinkedIn-db61a2?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000" alt="LinkedIn" /></a>
+  <a href="mailto:haniaimranxyz@gmail.com"><img src="https://img.shields.io/badge/Email-ff9bce?style=for-the-badge&logo=gmail&logoColor=ff9bce&labelColor=000000" alt="Email" /></a>
 </p>
 
-###  Contribution Graph
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=HaniaImran576&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=HaniaImran576&show_icons=true&title_color=ff9bce&text_color=ffffff&icon_color=db61a2&ring_color=db61a2&border_color=db61a2&bg_color=0D0D0D&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=HaniaImran576&layout=compact&title_color=ff9bce&text_color=ffffff&border_color=db61a2&bg_color=0D0D0D&langs_count=8" alt="top langs" />
 </p>
 
-###  Dev Quote
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=HaniaImran576&background=0D0D0D&ring=db61a2&fire=ff9bce&currStreakLabel=ff9bce&currStreakNum=ffffff&sideLabels=db61a2&sideNums=ffffff&dates=aaaaaa&stroke=db61a2&border=db61a2" alt="streak" />
+</p>
+
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=HaniaImran576&bg_color=0D0D0D&color=ff9bce&line=db61a2&point=ffffff&area=true&area_color=db61a2&hide_border=true" alt="activity graph" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/HaniaImran576/HaniaImran576/output/github-snake-dark.svg" alt="Contribution snake" />
+</p>
+
+### 💬 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D0D0D&quote_color=ff9bce&author_color=db61a2&border_color=db61a2" alt="Dev quote" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/HaniaImran576">HaniaImran576</a></i></p>
+<p align="center"><i>🎀 From <a href="https://github.com/HaniaImran576">HaniaImran576</a></i></p>
